@@ -15,7 +15,7 @@ The Deployit documentation contains all the information needed to install, confi
 * **Reference Manual**. This document describes generic deployment concepts and basic information about Deployit.
 * **System Administration Manual**. This document describes how to install Deployit and get it ready for first use.
 * **Graphical User Interface (GUI) Manual**. This document describes how to use the Deployit GUI.
-* **Command Line Interface (CLI) Manual**. This document describes how to use the Deployit CLI.
+* [Command Line Interface (CLI) Manual](/climanual.markdown). This document describes how to use the Deployit CLI.
 * **Packaging Manual**. This document describes how to create packages that can be imported into Deployit.
 * **Tomcat Plugin Manual**. This document describes the features of the Deployit Tomcat plugin. [^1]
 * **JBoss Plugin Manual**. This document describes the features of the Deployit JBoss plugin. [^1]
