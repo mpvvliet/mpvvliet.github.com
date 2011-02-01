@@ -1,6 +1,7 @@
-% Deployit Packaging Manual
-%
-% January, 2011
+---
+layout: default
+title: Deployit Packaging Manual
+---
 
 # Preface #
 

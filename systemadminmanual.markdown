@@ -1,6 +1,7 @@
-% Deployit System Administration Manual
-%
-% January, 2011
+---
+layout: default
+title: Deployit System Administration Manual
+---
 
 # Preface #
 

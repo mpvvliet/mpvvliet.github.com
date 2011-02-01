@@ -1,6 +1,7 @@
-% Deployit Graphical User Interface (GUI) Manual
-%
-% January, 2011
+---
+layout: default
+title: Deployit Graphical User Interface (GUI) Manual
+---
 
 # Preface #
 

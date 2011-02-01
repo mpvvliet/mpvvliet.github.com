@@ -1,6 +1,7 @@
-% Deployit Reference Manual
-%
-% December, 2010
+---
+layout: default
+title: Deployit Reference Manual
+---
 
 # Preface #
 

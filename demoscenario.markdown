@@ -1,6 +1,7 @@
-% Deployit Online Demo Scenario
-%
-% January, 2011
+---
+layout: default
+title: Deployit Online Demo Scenario
+---
 
 # Introduction #
 
