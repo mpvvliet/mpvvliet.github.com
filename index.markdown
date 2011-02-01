@@ -5,5 +5,5 @@ title: Xebialabs Deployit Documentation
 
 # Deployit Documentation #
 
-* [Deployit CLI Manual](climanual.markdown)
+* [Deployit CLI Manual](/climanual.html)
 
