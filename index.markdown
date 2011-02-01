@@ -13,7 +13,7 @@ The Deployit documentation contains all the information needed to install, confi
 
 * **Start Here**. This is the document you are currently reading.
 * [Reference Manual](/referencemanual.html). This document describes generic deployment concepts and basic information about Deployit.
-* [System Administration Manual](/sysadminmanual.html). This document describes how to install Deployit and get it ready for first use.
+* [System Administration Manual](/systemadminmanual.html). This document describes how to install Deployit and get it ready for first use.
 * [Graphical User Interface (GUI) Manual](/guimanual.html). This document describes how to use the Deployit GUI.
 * [Command Line Interface (CLI) Manual](/climanual.html). This document describes how to use the Deployit CLI.
 * [Packaging Manual](/guimanual.html). This document describes how to create packages that can be imported into Deployit.
