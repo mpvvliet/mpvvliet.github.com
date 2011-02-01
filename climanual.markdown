@@ -1,6 +1,10 @@
 % Deployit Command Line Interface (CLI) Manual
 %
 % January, 2011
+---
+layout: default
+title: Deployit Command Line Interface (CLI) Manual
+---
 
 # Preface #
 
